@@ -1,27 +1,27 @@
 ### 2019 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: 302  
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: IT Girls    
   
 #### Your team’s hackathon idea in TWO sentences:
-##### `YOUR TWO SENTENCES HERE`
-##### `YOUR TWO SENTENCES HERE`  
+##### Create an app that specifices the size and the status of the parking slot.
+##### Using cameras and sensors on street lights. 
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
-- ##### `YOUR DATASETS HERE`
-- ##### `YOUR DATASETS  HERE`
+- ##### Data San Diego(https://data.sandiego.gov/datasets/parking-meters-locations/)
+- ##### Data San Diego(https://data.sandiego.gov/stories/street-lights/)
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: Stephanie2701
 
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
 | -- | :------------------ |        :---:         |            :---:            |        :---:         |                  :---:                    |
-| 01 | Test Name           |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 02 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 03 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 04 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 05 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 01 | Stephanie Morales   |         [ ]          |             [ ]             |         [ ]          |                   [X]                     |
+| 02 |  Lileny Sixtos      |         [ ]          |             [ ]             |         [ ]          |                   [X]                     |
+| 03 |  Iris Mendez        |         [ ]          |             [ ]             |         [ ]          |                   [X]                     |
+| 04 |  Brittany Hernandez |         [ ]          |             [ ]             |         [ ]          |                   [X]                     |
+| 05 |  Selina Cabrera     |         [ ]          |             [ ]             |         [ ]          |                   [X]                     |
 | 06 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 07 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 08 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
@@ -32,7 +32,7 @@
 
 **Smart City**
 - [x] How can San Diegans have better options for parking in high-traffic areas to void congestion?
-- [x] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
+- [] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
 - [ ] Your question:
 
 **Smart Environment**
